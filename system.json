@@ -15,5 +15,5 @@
 
     "url": "https://github.com/MrAnonX-X/sotr",
     "manifest":"https://raw.githubusercontent.com/MrAnonX-X/sotr/main/system.json",
-    "download": "https://github.com/MrAnonX-X/sotr/releases/download/test-manifest/sotr.zip"
+    "download": "https://github.com/MrAnonX-X/sotr/releases/download/v0.0.1/sotr.zip"
 }
