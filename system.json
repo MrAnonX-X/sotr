@@ -1,0 +1,15 @@
+{
+    "id": "sotr",
+    "title": "Star of the Ruine",
+    "description": "System based with an idea of SotC",
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "14",
+        "verified": "14"
+    },
+    "authors": [{
+        "name": "MrAnonX"
+    }],
+    "esmodules": ["sotr.mjs"],
+    "styles": ["styles/sotr.css"]
+}
