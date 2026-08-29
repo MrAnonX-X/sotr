@@ -2,7 +2,7 @@
     "id": "sotr",
     "title": "Star of the Ruine",
     "description": "System based with an idea of SotC",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "compatibility": {
         "minimum": "14",
         "verified": "14"
@@ -17,5 +17,5 @@
 
     "url": "https://github.com/MrAnonX-X/sotr",
     "manifest":"https://raw.githubusercontent.com/MrAnonX-X/sotr/main/system.json",
-    "download": "https://github.com/MrAnonX-X/sotr/releases/download/v0.0.1/sotr.zip"
+    "download": "https://github.com/MrAnonX-X/sotr/releases/download/v0.0.2/sotr.zip"
 }
