@@ -13,7 +13,7 @@
     "esmodules": ["sotr.mjs"],
     "styles": ["styles/sotr.css"],
 
-    "background": "sotr/assets/home_page.png",
+    "background": "systems/sotr/assets/home_page.png",
 
     "url": "https://github.com/MrAnonX-X/sotr",
     "manifest":"https://github.com/MrAnonX-X/sotr/releases/latest/download/system.json",
