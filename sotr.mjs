@@ -1,3 +1,3 @@
-Hooks.once("init", () => {
-    console.log("Star of the Ruine | Initializing system");
-});
+import { initializeSystem } from "/system/core/initialization.js";
+
+initializeSystem();
