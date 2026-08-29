@@ -11,5 +11,9 @@
         "name": "MrAnonX"
     }],
     "esmodules": ["sotr.mjs"],
-    "styles": ["styles/sotr.css"]
+    "styles": ["styles/sotr.css"],
+
+    "url": "https://github.com/MrAnonX-X/sotr",
+    "manifest":"https://raw.githubusercontent.com/MrAnonX-X/sotr/main/system.json",
+    "download": ""
 }
