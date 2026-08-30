@@ -1,5 +1,10 @@
-export function initializeSystem() {
-    console.log("Star of the Ruine | Initializing system");
+import { SOTRActorData } from "../data/actor-data.js";
+import { SOTRActor } from "../documents/actor.js";
 
-    // Registration / initialization logic
+export function initializeSystem() {
+
+    CONFIG.Actor.dataModels.character = SOTRActorData;
+
+    CONFIG.Actor.documentClass = SOTRActor;
+
 }
