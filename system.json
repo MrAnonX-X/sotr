@@ -7,11 +7,31 @@
         "minimum": "14",
         "verified": "14"
     },
+    
     "authors": [{
         "name": "MrAnonX"
     }],
-    "esmodules": ["sotr.mjs"],
-    "styles": ["styles/sotr.css"],
+
+    "esmodules": [
+        "sotr.mjs"
+    ],
+
+    "styles": [
+        "styles/sotr.css"
+    ],
+
+    "documentTypes": {
+        "Actor": {
+            "character": {}
+        },
+
+        "Item": {
+            "skill": {},
+            "treasure": {},
+            "status": {},
+            "passive": {}
+        }
+    },
 
     "background": "systems/sotr/assets/home_page.png",
 

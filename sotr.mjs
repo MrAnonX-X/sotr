@@ -1,3 +1,3 @@
-import { initializeSystem } from "/system/core/initialization.js";
+import { initializeSystem } from "./system/core/initialization.js";
 
-initializeSystem();
+Hooks.once("init", initializeSystem);
